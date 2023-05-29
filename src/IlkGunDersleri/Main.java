@@ -1,3 +1,5 @@
+package IlkGunDersleri;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -10,6 +12,7 @@ public class Main {
            Paragraf Yorum Satırı
 
          */
+
         // Java büyük harf küçük harfe duyarlı bir dildir. camelCase olayı.
         System.out.println("Berker Sümeyye'yi seviyor.");  // System class'ından > onun içindeki out değişkeni > println methodunu çağırıyor.
 

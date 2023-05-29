@@ -1,3 +1,5 @@
+package IlkGunDersleri;
+
 import java.util.Scanner;
 
 public class IfElseStatements {

@@ -1,3 +1,5 @@
+package IlkGunDersleri;
+
 public class AritmetikIslemler {
 
     public static void main(String[] args) {

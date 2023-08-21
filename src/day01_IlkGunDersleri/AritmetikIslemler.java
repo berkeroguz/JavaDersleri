@@ -3,8 +3,18 @@ package day01_IlkGunDersleri;
 public class AritmetikIslemler {
 
     public static void main(String[] args) {
+        /*
+             Veri tipleri
+
+             Integer ismi , int şeklinde tanımlanır ve tam sayıları ifade eder.
+             Double , double seklinde kullanılır ve tamsayı + olarak ondalıklı sayıları da temsil eder.
+             String , String Metinsel ifadeler için String kullanılr.
+             Boolean , boolean seklinde kullanılır. 1 ve 0 , True ya da false değerini alabiliyor.
+         */
+
         // Aritmetik islemler toplama çıkarma bölme çarpma
 
+        // = Assign işlemi yani atama işlemi
         int a=20;
         int b=60;
 
